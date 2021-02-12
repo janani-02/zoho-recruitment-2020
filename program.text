@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(void)
 {
-printf("T\n" "TE\n" "TER\n" "TERW\n" "TERWA\n")
+printf("T\n" "TE\n" "TER\n" "TERW\n" "TERWA\n");
 }
